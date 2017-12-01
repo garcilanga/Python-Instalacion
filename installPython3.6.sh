@@ -18,3 +18,4 @@ sudo tar xzf Python-3.6.3.tgz
 cd Python-3.6.3
 sudo ./configure --enable-optimizations
 sudo make altinstall
+
