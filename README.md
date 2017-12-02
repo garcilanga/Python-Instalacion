@@ -4,13 +4,13 @@ Python es un **lenguaje de programación interpretado**, de **código abierto**,
 
 Python sigue los principios de legibilidad y transparencia, haciendo hincapié en una sintaxis que favorezca un **código legible**. Los lenguajes que siguen estos principios se dice que son "pythonicos", en contraposición con aquellos cuyo código es opaco u ofuscado, llamados "no pythonicos".
 
-Se puede instalar Python de varias formas. En este pequeño tutorial vamos a ver, concretamente, cómo instalar **Python 3.6** en **Ubuntu 16.04** descargándolo directamente del sitio web oficial y **compilándolo**.
+Se puede instalar Python de varias formas. En este pequeño tutorial vamos a ver cómo instalar **Python 3.6** en **Ubuntu 16.04** descargándolo directamente del sitio web oficial y **compilándolo**.
 
 ## Instalación
 
 Python está incluido en el repositorio de paquetes de Ubuntu, pero el **repositorio oficial de Python** proporciona la **versión más actualizada** y ésta es la opción más **recomendable**.
 
-Para instalar la últim versión de Python ello deberemos actualizar la lista de paquetes disponibles de nuestra distribución de Ubuntu, instalar algunos paquetes previos necesarios, descargar los fuentes de Python del sitio oficial y, por último, compilarlo e instalarlo.
+Para instalar la últim versión de Python deberemos actualizar la lista de paquetes disponibles de nuestra distribución de Ubuntu, instalar algunos paquetes previos necesarios, descargar los fuentes de Python del sitio oficial y, por último, compilarlo e instalarlo.
 
 La secuencia de comandos es la siguiente:
 
