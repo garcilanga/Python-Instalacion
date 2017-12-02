@@ -1,4 +1,5 @@
 # Instalación de Python
+![pythonLogo](images/python-logo.png)
 
 Python es un **lenguaje de programación interpretado**, de **código abierto**, **multiplataforma**, de **tipado dinámico** y **multiparadigma**, ya que soporta programación orientación a objetos, programación imperativa y, en menor medida, programación funcional. 
 
