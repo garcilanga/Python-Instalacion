@@ -39,7 +39,7 @@ Durante la instalación se ha utilizado el parámetro _--enable-optimizations_ d
 
 También se ha empleado el parámetro _altinstall_ del comando _make_, para que la nueva instalación se realice **sin sobrescribir la instalación prexistente**.
 
-Una vez instalado podemos ver la versión exacta ejecutando el siguiente comando:
+Una vez instalado Python podemos ver la versión exacta ejecutando el siguiente comando:
 ```
 python3.6 -V
 ```
