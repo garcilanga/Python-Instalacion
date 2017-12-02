@@ -4,7 +4,7 @@
 
 Python es un **lenguaje de programación interpretado** que sigue los principios de legibilidad y transparencia, haciendo hincapié en una sintaxis que favorezca un **código legible**. Los lenguajes que siguen estos principios se dice que son "pythonicos", en contraposición con aquellos cuyo código es opaco u ofuscado, llamados "no pythonicos".
 
-Python es un lenguaje de **código abierto**, **multiplataforma**, de **tipado dinámico**, **multiparadigma**, ya que soporta programación orientación a objetos, programación imperativa y, en menor medida, programación funcional. 
+Python es un lenguaje de **código abierto**, **multiplataforma**, de **tipado dinámico** y **multiparadigma**, ya que soporta programación orientación a objetos, programación imperativa y, en menor medida, programación funcional. 
 
 
 ## Instalación de Python 3.6
