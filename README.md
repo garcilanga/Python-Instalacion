@@ -1,8 +1,8 @@
 # Instalación de Python
 
-Python es un **lenguaje de programación interpretado** que sigue los principios de legibilidad y transparencia, haciendo hincapié en una sintaxis que favorezca un **código legible**. Los lenguajes que siguen estos principios se dice que son "pythonicos", en contraposición con aquellos cuyo código es opaco u ofuscado, llamados "no pythonicos".
+Python es un **lenguaje de programación interpretado**, de **código abierto**, **multiplataforma**, de **tipado dinámico** y **multiparadigma**, ya que soporta programación orientación a objetos, programación imperativa y, en menor medida, programación funcional. 
 
-Python es un lenguaje de **código abierto**, **multiplataforma**, de **tipado dinámico** y **multiparadigma**, ya que soporta programación orientación a objetos, programación imperativa y, en menor medida, programación funcional. 
+Python sigue los principios de legibilidad y transparencia, haciendo hincapié en una sintaxis que favorezca un **código legible**. Los lenguajes que siguen estos principios se dice que son "pythonicos", en contraposición con aquellos cuyo código es opaco u ofuscado, llamados "no pythonicos".
 
 Se puede instalar Python de varias formas. En este pequeño tutorial vamos a ver, concretamente, cómo instalar **Python 3.6** en **Ubuntu 16.04** descargándolo directamente del sitio web oficial y **compilándolo**.
 
