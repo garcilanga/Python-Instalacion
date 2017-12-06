@@ -14,8 +14,16 @@ sudo wget https://www.python.org/ftp/python/3.6.3/Python-3.6.3.tgz
 # Descomprime el fichero descargado
 sudo tar xzf Python-3.6.3.tgz
 
+# Borra el fichero descargado después de ser descomprimido (opcional)
+sudo rm Python-3.6.3.tgz
+
 # Compila e instala Python 3.6.3
 cd Python-3.6.3
 sudo ./configure --enable-optimizations
 sudo make altinstall
 
+# Comprobar la versión de python3
+python3.6 -V
+
+# Comprobar la versión del instalador de paquetes (pip)
+pip3.6 -V
