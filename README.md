@@ -52,17 +52,18 @@ pip3.6 -V
 ```
 ![Python](images/python_pip_version.png)
 
-## Instalación en Jupyter (Anaconda)
+## Instalación en Jupyter Notebook
 
-Jupyter Notebook es un entorno de trabajo web open source que permite crear y compartir documentos que contienen código fuente, ecuaciones, visualizaciones y texto explicativo. Soporta lenguajes como Pythom R y otros.
+Jupyter Notebook es un entorno de trabajo web open source que permite crear y compartir documentos que contienen código fuente, texto explicativo, ecuaciones, imágenes, gráficos, etc. Soporta lenguajes como Python, R y otros.
 
-Si tenemos instalado Jupyter Notebook podemos disponer del lenguaje Python3.6 ejecutando las siguientes instrucciones de instalación:
+Si tenemos instalado Jupyter Notebook en nuestro sistema y queremos disponer del lenguaje Python3.6 ejecutaremos las siguientes instrucciones por línea de comandos en un terminal:
 
 ```
 sudo python3.6 -m pip install ipykernel
 sudo python3.6 -m ipykernel install --user
 ```
-Una vez instalado, levantamos Jupyter Noteboox y podermos ver Python3.6 disponible en la lista de lenguajes:
+
+Después, levantamos Jupyter Notebook y podermos ver que Python3.6 está disponible en la lista de lenguajes:
 
 ```
 jupyter notebook
