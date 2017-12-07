@@ -11,7 +11,7 @@ Se puede instalar Python de varias formas. En este pequeño tutorial vamos a ver
 
 Python está incluido en el repositorio de paquetes de Ubuntu, pero el **repositorio oficial de Python** proporciona la **versión más actualizada** y ésta es la opción más **recomendable**.
 
-Para instalar la últim versión de Python deberemos actualizar la lista de paquetes disponibles de nuestra distribución de Ubuntu, instalar algunos paquetes previos necesarios, descargar los fuentes de Python del sitio oficial y, por último, compilarlo e instalarlo.
+Para instalar la última versión de Python deberemos actualizar la lista de paquetes disponibles de nuestra distribución de Ubuntu, instalar algunos paquetes previos necesarios, descargar los fuentes de Python del sitio oficial y, por último, compilarlo e instalarlo.
 
 La secuencia de comandos es la siguiente:
 
