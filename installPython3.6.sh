@@ -1,5 +1,9 @@
 #!/bin/sh
 
+####################################################################################################
+### Instalar Python 3.6 en Ubuntu 16.04 (Xenial)
+####################################################################################################
+
 # Actualiza la base de datos local de paquetes disponibles para Ubuntu
 sudo apt-get update
 
