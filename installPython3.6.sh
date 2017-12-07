@@ -31,3 +31,4 @@ python3.6 -V
 
 # Comprobar la versión del instalador de paquetes (pip)
 pip3.6 -V
+
